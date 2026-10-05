@@ -1,0 +1,10 @@
+{
+  "name":"SOBER//STREAK",
+  "short_name":"НЕ БУХАЮ",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#09090b",
+  "theme_color":"#09090b",
+  "lang":"ru",
+  "icons":[]
+}

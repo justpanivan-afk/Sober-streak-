@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Sober Streak",
+    "slug": "sober-streak",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {"backgroundColor":"#111111"},
+    "ios": {"supportsTablet": true, "bundleIdentifier":"com.soberstreak.app"},
+    "android": {"package":"com.soberstreak.app"},
+    "plugins": ["expo-notifications"]
+  }
+}
